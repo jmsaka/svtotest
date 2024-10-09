@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Produto/.vs
+/Produto/Produtos.App/bin/
+/Produto/Produtos.App/obj
+/Produto/Produtos.Domain/bin/
+/Produto/Produtos.Domain/obj
+/Produto/Produtos.Infrastructure/bin/
+/Produto/Produtos.Infrastructure/obj/
+/Produto/Produtos.Test/bin
+/Produto/Produtos.Test/obj
+/ApiParams/.vs
+/ApiParams/ApiParams/bin/Debug/net8.0
+/ApiParams/ApiParams/obj
+/ApiParams/ApiParams/ApiParams.csproj.user
+/ApiParams/ApiParams.Domain/bin/Debug/net8.0
+/ApiParams/ApiParams.Domain/obj
+/ConsoleAppFilaTarefas/.vs
+/ConsoleAppFilaTarefas/bin/Debug/net8.0
+/ConsoleAppFilaTarefas/obj
