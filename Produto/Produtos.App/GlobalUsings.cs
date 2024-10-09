@@ -1,0 +1,12 @@
+﻿global using System.Reflection;
+global using MediatR;
+global using Microsoft.Extensions.DependencyInjection;
+global using Produtos.Domain.Commands;
+global using Produtos.Domain.Entities;
+global using Produtos.Domain.Interfaces;
+global using Produtos.Domain.Queries;
+global using Produtos.Infrastructure.Repositories;
+global using System.Globalization;
+global using Produtos.Domain.Profiles;
+global using FluentValidation;
+global using Produtos.App.Application;
